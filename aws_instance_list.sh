@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# usage: $ curl -s https://raw.githubusercontent.com/yousan/aws_instance_list/master/aws_instans_list.sh | bash -s ap-northeast-1 default
+# usage: $ curl -s https://raw.githubusercontent.com/yousan/aws_instance_list/master/aws_instance_list.sh | bash -s ap-northeast-1 default
 
 # REGION=${1:-ap-northeast-1}
 PROFILE=${2:-default}
